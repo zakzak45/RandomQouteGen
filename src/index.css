@@ -12,8 +12,13 @@
     align-items: center;
     height:400px;
 }
+button{
+    position:relative;
+    top:40px;
+}
 
 body{
-    background-color: blue;
+    background-color: rgb(192, 207, 213);
+    opacity:0.5;
 }
 
