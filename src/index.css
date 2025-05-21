@@ -5,6 +5,15 @@
 }
 
 
+
+#quote-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:400px;
+}
+
 body{
     background-color: blue;
 }
+
